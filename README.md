@@ -18,3 +18,16 @@ the tree of callings on our website with the individuals info
 Could also have a list of people who don't have callings on the right, and whatever else we think it needs.
 
 Add as you please.. just make branches and ask for you code to be merged with pull requests! 
+
+
+
+### To get it running
+
+`git clone`
+
+`npm install`
+
+`bower install`
+
+`grunt server`
+
